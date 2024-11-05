@@ -1,5 +1,5 @@
 # xDuinoRail-Bus
-The xDuinoRail-Bus allows themodular development of model railroad electronics.
+The xDuinoRail-Bus allows a odular development of model railroad electronics.
 
 ## Pinout
 
